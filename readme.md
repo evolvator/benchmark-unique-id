@@ -2,7 +2,7 @@
 
 What is better way to generating unique id?
 
-[![Build Status](https://travis-ci.org/evolvator/benchmark-unique-id.svg?branch=master)](https://travis-ci.org/evolvator/benchmark-unique-id)
+[![Build Status](https://travis-ci.org/evolvator/benchmark-unique-id.svg?branch=code)](https://travis-ci.org/evolvator/benchmark-unique-id)
 
 [Executable code](https://github.com/evolvator/benchmark-unique-id/tree/code)
 
