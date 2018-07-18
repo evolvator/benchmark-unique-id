@@ -2,6 +2,8 @@
 
 What is better way to generating unique id?
 
+## [DEPRICATED](https://github.com/orgs/evolvator/projects?utf8=%E2%9C%93&query=is%3Aclosed+Tasks+v0)
+
 [![Build Status](https://travis-ci.org/evolvator/benchmark-unique-id.svg?branch=code)](https://travis-ci.org/evolvator/benchmark-unique-id)
 
 [Executable code](https://github.com/evolvator/benchmark-unique-id/tree/code)
